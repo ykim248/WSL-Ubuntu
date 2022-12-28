@@ -1,0 +1,4 @@
+nodejs-app-starting-setup  
+    sha256:76dff0a5b73eef8ecb72ad81f606a5b92afd8f6fecbe932a962f424693814900
+    76dff0a5b73e
+
